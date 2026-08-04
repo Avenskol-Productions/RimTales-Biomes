@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <packageId>AvenskolProductions.RimTales.Biomes</packageId>
+  <author>Avenskol Official</author>
+  <supportedVersions>
+  	<li>1.6</li>
+  </supportedVersions>
+  <description>The official RimTales Biomes expansion mod for RimWorld!</description>
+  <forceLoadAfter>
+    <li>Ludeon.RimWorld</li>
+	<li>Ludeon.RimWorld.Royalty</li>
+	<li>Ludeon.RimWorld.Ideology</li>
+	<li>Ludeon.RimWorld.Biotech</li>
+	<li>Ludeon.RimWorld.Anomaly</li>
+	<li>Ludeon.RimWorld.Odyssey</li>
+	<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+	<li>AvenskolProductions.RimTales.Core</li>
+  </forceLoadAfter>
+  <modDependencies>
+	<li>
+		<packageId>ludeon.rimworld.royalty</packageId>
+		<displayName>Royalty Expansion</displayName>
+		<steamWorkshopUrl>https://store.steampowered.com/app/1149640/RimWorld__Royalty/</steamWorkshopUrl>
+	</li>
+	<li>
+		<packageId>ludeon.rimworld.biotech</packageId>
+		<displayName>Biotech Expansion</displayName>
+		<steamWorkshopUrl>https://store.steampowered.com/app/1392840/RimWorld__Biotech/</steamWorkshopUrl>
+	</li>
+	<li>
+		<packageId>AvenskolProductions.RimTales.Core</packageId>
+		<displayName>RimTales Core</displayName>
+		<downloadUrl>https://github.com/Avenskol-Productions/RimTales-Core</downloadUrl>
+	</li>
+  </modDependencies>
+</ModMetaData>

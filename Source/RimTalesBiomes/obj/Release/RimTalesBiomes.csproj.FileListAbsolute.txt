@@ -1,0 +1,6 @@
+C:\Users\pwthe\Desktop\Rimworld\Mods\Expansions\RimTales\RimTales-Biomes\Source\RimTalesBiomes\bin\Release\RimTalesBiomes.dll
+C:\Users\pwthe\Desktop\Rimworld\Mods\Expansions\RimTales\RimTales-Biomes\Source\RimTalesBiomes\bin\Release\RimTalesBiomes.pdb
+C:\Users\pwthe\Desktop\Rimworld\Mods\Expansions\RimTales\RimTales-Biomes\Source\RimTalesBiomes\obj\Release\RimTalesBiomes.csproj.AssemblyReference.cache
+C:\Users\pwthe\Desktop\Rimworld\Mods\Expansions\RimTales\RimTales-Biomes\Source\RimTalesBiomes\obj\Release\RimTalesBiomes.csproj.CoreCompileInputs.cache
+C:\Users\pwthe\Desktop\Rimworld\Mods\Expansions\RimTales\RimTales-Biomes\Source\RimTalesBiomes\obj\Release\RimTalesBiomes.dll
+C:\Users\pwthe\Desktop\Rimworld\Mods\Expansions\RimTales\RimTales-Biomes\Source\RimTalesBiomes\obj\Release\RimTalesBiomes.pdb
