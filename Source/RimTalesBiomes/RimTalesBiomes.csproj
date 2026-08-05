@@ -49,6 +49,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BiomeWorker_RimTalesMarsh.cs" />
+    <Compile Include="BiomeWorker_RimTalesSwamp.cs" />
     <Compile Include="BiomeWorker_RimTalesRainForest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

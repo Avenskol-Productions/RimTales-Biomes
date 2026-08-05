@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\pwthe\\Desktop\\Rimworld\\Mods\\Expansions\\RimTales\\RimTales-Biomes\\Source\\RimTalesBiomes\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{6E70746A-C202-4D4A-93BF-4D6EF3966D1A}|RimTalesBiomes.csproj|c:\\users\\pwthe\\desktop\\rimworld\\mods\\expansions\\rimtales\\rimtales-biomes\\source\\rimtalesbiomes\\biomeworker_rimtalesrainforest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E70746A-C202-4D4A-93BF-4D6EF3966D1A}|RimTalesBiomes.csproj|solutionrelative:biomeworker_rimtalesrainforest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BiomeWorker_RimTalesRainForest.cs",
-              "DocumentMoniker": "C:\\Users\\pwthe\\Desktop\\Rimworld\\Mods\\Expansions\\RimTales\\RimTales-Biomes\\Source\\RimTalesBiomes\\BiomeWorker_RimTalesRainForest.cs",
-              "RelativeDocumentMoniker": "BiomeWorker_RimTalesRainForest.cs",
-              "ToolTip": "C:\\Users\\pwthe\\Desktop\\Rimworld\\Mods\\Expansions\\RimTales\\RimTales-Biomes\\Source\\RimTalesBiomes\\BiomeWorker_RimTalesRainForest.cs",
-              "RelativeToolTip": "BiomeWorker_RimTalesRainForest.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBwAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T11:07:45.127Z",
-              "EditorCaption": ""
             }
           ]
         }
