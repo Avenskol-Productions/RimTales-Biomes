@@ -13,7 +13,7 @@ public class BiomeWorker_RimTalesSwamp : BiomeWorker
         // We don't want to generate where it's too cold
         if (tile.temperature < 15f)
         {
-            return 0f;
+            return 0.5f;
         }
         //We want to generate where there is a lot of rain
         if ((tile.rainfall < 2000f) || (tile.rainfall > 2100f))
