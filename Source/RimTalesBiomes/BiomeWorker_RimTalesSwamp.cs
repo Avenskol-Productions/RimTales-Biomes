@@ -21,7 +21,7 @@ public class BiomeWorker_RimTalesSwamp : BiomeWorker
             return 1f;
         }
         //We want to generate where there is a lot of swamp
-        if ((tile.swampiness < 2000f) || (tile.swampiness > 2100f))
+        if ((tile.swampiness < 0.5f) || (tile.swampiness > 1f))
         {
             return 1f;
         }
